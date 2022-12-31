@@ -21,7 +21,7 @@ The discord bot has the following features:
 ## How we built it
 
 - **Python**: We used Python to create the discord bot.
-- **GPT-3**: For getting suggestions for a resolution.
+- **OpenAI**: For getting suggestions for a resolution.
 - **Hedera Hashgraph**: Storing the user's data in a decentralized way.
 
 ## Best Sustainability Hack sponsored by Avanade
@@ -35,17 +35,17 @@ We are using Hedera Hashgraph to store the user's data in a decentralized way. W
 ## Challenges we ran into
 
 - Because we had to implement the project by a certain date, finishing the project was difficult.
-- I had to learn how to use GPT-3 and Hedera Hashgraph.
+- I had to learn how to use OpenAI and Hedera Hashgraph.
 - I had to learn how to create a discord bot.
 
 ## Accomplishments that we're proud of
 
-- I was pleased that I was able to learn how to use GPT-3 and Hedera Hashgraph.
+- I was pleased that I was able to learn how to use OpenAI and Hedera Hashgraph.
 - I was pleased that I was able to create a discord bot.
 
 ## What we learned
 
-- I learned how to use GPT-3.
+- I learned how to use OpenAI.
 - I learned how to create a discord bot.
 
 ## What's next for Resolution Assistant
