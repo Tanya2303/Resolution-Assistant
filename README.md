@@ -16,7 +16,7 @@ The discord bot has the following features:
 - `/goal_achieved`: The bot will ask you to enter the resolution you have achieved.
 - `/eco_points`: The bot will list all the resolutions you have achieved and the eco points you have achieved.
 - `/remind_me`: The bot will ask you to enter the resolution you want to set a reminder for and the date you want to be reminded.
-- `/redeem: The bot will ask you to enter the reward you want to redeem and the eco points you want to redeem.
+- `/redeem`: The bot will ask you to enter the reward you want to redeem and the eco points you want to redeem.
 
 ## How we built it
 
